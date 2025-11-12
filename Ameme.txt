@@ -1,25 +1,21 @@
 Hello World, Ameme
 Have you figured it out?
 
-windows + r
-git
-git config --global user.name "ameemameme"
-git config --global user.email "ameemameme@gmail.com"
-MAKE FOLDER
-go to VC code
-new folder, then click folder you made
-click terminal, make new terminal
-go to GitHub, go to repository, copy the code 
-go to VS code, write git clone and the paste the code after a space
-click enter
-write cd, plus space then the name of file inside folder 
-hidden folder
-Make new terminal and type; git clone (your repository URL code)
-git status
-cd (FOLDER NAME)
-git add (FILE NAME)
-git commit -m (FILE NAME added)
-git push origin main
+Hold click: windows + r
+Type: git
+Type: git config --global user.name "ameemameme"
+Type: git config --global user.email "ameemameme@gmail.com"
+Make: a new folder in computer
+Go to: VC code
+Click and find: new folder
+Go to GitHub: copy repository URL code 
+Click terminal: open new terminal
+Type: git clone (your repository URL code)
+Type: git status
+Type: cd (FOLDER NAME)
+Type: git add (FILE NAME)
+Type: git commit -m (FILE NAME added)
+Type: git push origin main
 
 git pull (to pull from website to device)
 git add . (selects all files in the folder)
